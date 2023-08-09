@@ -1,8 +1,8 @@
-package com.course1;
+package com.course2SolvingProblemsWithSoftware;
 
-public class Arrays {
+public class ArraysExample {
     public int[] data;
-    public Arrays(int[] data) {
+    public ArraysExample(int[] data) {
         this.data = data;
     }
 
@@ -18,7 +18,7 @@ public class Arrays {
 
     public static void main(String[] args) {
         int[] myData = {1, 2, 3};
-        Arrays exampleArrays = new Arrays(myData);
-        exampleArrays.printArray();
+        ArraysExample exampleArraysExample = new ArraysExample(myData);
+        exampleArraysExample.printArray();
     }
 }

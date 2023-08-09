@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5641343d-fde9-4c88-aa54-556d1a06e4e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course1/Point.java" afterDir="false" />
+    <list default="true" id="5641343d-fde9-4c88-aa54-556d1a06e4e6" name="Changes" comment="Created Arrays">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/course1/Table.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/courserajava.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +28,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2TCsyCvoay5Ru57t6HRHfDYuGwE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,21 +48,26 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/course1" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Point">
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course1.Point" />
+  <component name="RunManager" selected="Application.ClassesExample">
+    <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.ArraysExample" />
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course1.*" />
+          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +75,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course1.Table" />
+    <configuration name="ClassesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.ClassesExample" />
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course1.*" />
+          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerimeterAssignmentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerimeterAssignmentRunner" />
+      <module name="java-programming-swe-specialization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerimeterRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course1.PerimeterRunner" />
+      <module name="java-programming-swe-specialization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" />
+      <module name="java-programming-swe-specialization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point" />
-        <item itemvalue="Application.Table" />
+        <item itemvalue="Application.ClassesExample" />
+        <item itemvalue="Application.ArraysExample" />
+        <item itemvalue="Application.com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" />
+        <item itemvalue="Application.PerimeterRunner" />
+        <item itemvalue="Application.PerimeterAssignmentRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -106,11 +139,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690558648786</updated>
-      <workItem from="1690558649955" duration="1897000" />
+      <workItem from="1690558649955" duration="13639000" />
+      <workItem from="1691621657733" duration="1822000" />
     </task>
+    <task id="LOCAL-00001" summary="Created project">
+      <option name="closed" value="true" />
+      <created>1690733984976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690733984976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Installed edu.duke and org.apache.commons.csv packages">
+      <option name="closed" value="true" />
+      <created>1690734032464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690734032464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created PerimeterAssignmentRunner from starter code.">
+      <option name="closed" value="true" />
+      <created>1691622792852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622792852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented PerimeterAssignmentRunner">
+      <option name="closed" value="true" />
+      <created>1691622862809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622862809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created HelloWorld">
+      <option name="closed" value="true" />
+      <created>1691623129431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623129431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created Arrays">
+      <option name="closed" value="true" />
+      <created>1691623144510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623144510</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created project" />
+    <MESSAGE value="Installed edu.duke and org.apache.commons.csv packages" />
+    <MESSAGE value="Created PerimeterAssignmentRunner from starter code." />
+    <MESSAGE value="Implemented PerimeterAssignmentRunner" />
+    <MESSAGE value="Created HelloWorld" />
+    <MESSAGE value="Created Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Arrays" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

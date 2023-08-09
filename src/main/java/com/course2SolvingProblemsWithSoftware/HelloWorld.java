@@ -1,4 +1,4 @@
-package com.course1;
+package com.course2SolvingProblemsWithSoftware;
 
 import edu.duke.FileResource;
 
