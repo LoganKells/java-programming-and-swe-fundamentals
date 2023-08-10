@@ -1,10 +1,10 @@
-package com.course2SolvingProblemsWithSoftware;
+package com.course_2_solving_problems_w_software;
 
 import edu.duke.FileResource;
 
 public class HelloWorld {
 	public void runHello () {
-		FileResource res = new FileResource("hello_unicode.txt");
+		FileResource res = new FileResource("course_2_solving_problems_w_software/perimeter/hello_unicode.txt");
 		for (String line : res.lines()) {
 			System.out.println(line);
 		}

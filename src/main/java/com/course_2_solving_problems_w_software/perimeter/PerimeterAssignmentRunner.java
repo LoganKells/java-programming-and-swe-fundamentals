@@ -1,4 +1,4 @@
-package com.course2SolvingProblemsWithSoftware;
+package com.course_2_solving_problems_w_software.perimeter;
 
 import edu.duke.Point;
 import edu.duke.Shape;
@@ -105,7 +105,7 @@ public class PerimeterAssignmentRunner {
     }
 
     public void testPerimeter() {
-        String fileName = "datatest1.txt";
+        String fileName = "course_2_solving_problems_w_software/perimeter/datatest1.txt";
         FileResource file1 = new FileResource(fileName);
         var shape1 = new Shape(file1);
         System.out.println("Calculating for: " + fileName);
@@ -118,6 +118,8 @@ public class PerimeterAssignmentRunner {
 
     public static void main(String[] args) {
         var perimeterRunner = new PerimeterAssignmentRunner();
+
+        // Uncomment to run a test method.
         perimeterRunner.testPerimeter();
 //        perimeterRunner.testPerimeterMultipleFiles();
 //        perimeterRunner.testFileWithLargestPerimeter();

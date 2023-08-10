@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5641343d-fde9-4c88-aa54-556d1a06e4e6" name="Changes" comment="Created Arrays">
+    <list default="true" id="5641343d-fde9-4c88-aa54-556d1a06e4e6" name="Changes" comment="Created ClassesExample">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course1/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/StringsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/tagFinder/TagFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/ArraysExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/PerimeterAssignmentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/PerimeterAssignmentRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datatest6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/datatest6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/example1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/example1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/example2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/example2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/example3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/example3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/example4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/example4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hello_unicode.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner/hello_unicode.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +69,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/course1" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/tagFinder2" />
+      <recent name="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/tagFinder" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/course2SolvingProblemsWithSoftware/tagFinder" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/resources/course2SolvingProblemsWithSoftware/perimeterAssignmentRunner" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassesExample">
+  <component name="RunManager" selected="Application.com.course_2_solving_problems_w_software.perimeter.PerimeterAssignmentRunner">
     <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.ArraysExample" />
+      <option name="MAIN_CLASS_NAME" value="com.course_2_solving_problems_w_software.ArraysExample" />
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="PATTERN" value="com.course_2_solving_problems_w_software.perimeter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="ClassesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.ClassesExample" />
+      <option name="MAIN_CLASS_NAME" value="com.course_2_solving_problems_w_software.ClassesExample" />
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="PATTERN" value="com.course_2_solving_problems_w_software.perimeter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +115,7 @@
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="PATTERN" value="com.course_2_solving_problems_w_software.perimeter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" />
+    <configuration name="com.course_2_solving_problems_w_software.perimeter.PerimeterAssignmentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course_2_solving_problems_w_software.perimeter.PerimeterAssignmentRunner" />
       <module name="java-programming-swe-specialization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course2SolvingProblemsWithSoftware.*" />
+          <option name="PATTERN" value="com.course_2_solving_problems_w_software.perimeter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,9 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassesExample" />
+        <item itemvalue="Application.com.course_2_solving_problems_w_software.perimeter.PerimeterAssignmentRunner" />
         <item itemvalue="Application.ArraysExample" />
-        <item itemvalue="Application.com.course2SolvingProblemsWithSoftware.PerimeterAssignmentRunner" />
+        <item itemvalue="Application.ClassesExample" />
         <item itemvalue="Application.PerimeterRunner" />
         <item itemvalue="Application.PerimeterAssignmentRunner" />
       </list>
@@ -140,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690558648786</updated>
       <workItem from="1690558649955" duration="13639000" />
-      <workItem from="1691621657733" duration="1822000" />
+      <workItem from="1691621657733" duration="5722000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <option name="closed" value="true" />
@@ -190,7 +205,31 @@
       <option name="project" value="LOCAL" />
       <updated>1691623144510</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated packages">
+      <option name="closed" value="true" />
+      <created>1691623740543</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623740543</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created Main">
+      <option name="closed" value="true" />
+      <created>1691623767722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623767722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created ClassesExample">
+      <option name="closed" value="true" />
+      <created>1691623780092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623780092</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +242,10 @@
     <MESSAGE value="Implemented PerimeterAssignmentRunner" />
     <MESSAGE value="Created HelloWorld" />
     <MESSAGE value="Created Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Arrays" />
+    <MESSAGE value="Updated packages" />
+    <MESSAGE value="Created Main" />
+    <MESSAGE value="Created ClassesExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created ClassesExample" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

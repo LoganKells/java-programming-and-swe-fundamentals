@@ -1,4 +1,4 @@
-package com.course2SolvingProblemsWithSoftware;
+package com.course_2_solving_problems_w_software;
 
 public class ArraysExample {
     public int[] data;
@@ -7,11 +7,7 @@ public class ArraysExample {
     }
 
     public void printArray() {
-        int[] data = new int[3];
-        data[0] = 1;
-        data[1] = 2;
-        data[2] = 3;
-        for (int num : data) {
+        for (int num : this.data) {
             System.out.println(num);
         }
     }
