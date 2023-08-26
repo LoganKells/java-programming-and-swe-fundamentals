@@ -1,7 +1,7 @@
-**/target/
+target/
 !**/.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+#!**/src/main/**/target/
+#!**/src/test/**/target/
 
 ### IntelliJ IDEA ###
 **/.idea/modules.xml
@@ -153,6 +153,8 @@ fabric.properties
 ### Java ###
 # Compiled class file
 *.class
+!**/edu/duke/*.class
+!**/org/apache/commons/csv/*.class
 
 # Log file
 *.log
@@ -165,6 +167,8 @@ fabric.properties
 
 # Package Files #
 *.jar
+!apache-csv.jar
+!courserajava.jar
 *.war
 *.nar
 *.ear

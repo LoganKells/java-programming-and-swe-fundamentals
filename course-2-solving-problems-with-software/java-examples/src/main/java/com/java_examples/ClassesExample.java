@@ -1,4 +1,4 @@
-package com.course_2_solving_problems_w_software;
+package com.java_examples;
 
 public class ClassesExample {
     private String color;
